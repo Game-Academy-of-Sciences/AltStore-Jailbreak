@@ -210,7 +210,7 @@ private extension AppDelegate
             ipaUrl = "https://gginin.de/jb/NvwaStone/NvwaStone_1.1.ipa"
             break
         case "h3lix":
-            ipaUrl = "https://h3lix.tihmstar.net/ipa/h3lix-RC6.ipa"
+            ipaUrl = "https://gginin.de/jb/h3lix/h3lix-RC6.ipa"
             break
         case "Phoenix":
             ipaUrl = "https://gginin.de/jb/Phoenix/Phoenix5.ipa"
